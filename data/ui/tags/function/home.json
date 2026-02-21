@@ -1,9 +1,5 @@
 {
   "replace": false,
   "values": [
-    {
-      "id": "ui:menu/demo/root/open",
-      "required": false
-    }
   ]
 }
