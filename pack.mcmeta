@@ -1,6 +1,15 @@
 {
   "pack": {
-    "pack_format": 1,
-    "description": "by DutchCommanderMC"
+    "pack_format": 48,
+    "description": "GUI Library v1.0.0",
+    "supported_formats": [
+      48,
+      94
+    ],
+    "min_format": [
+      48,
+      1
+    ],
+    "max_format": 94
   }
 }

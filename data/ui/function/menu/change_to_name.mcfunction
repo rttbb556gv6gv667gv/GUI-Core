@@ -1,0 +1,1 @@
+$data modify entity @s[tag=ui,type=minecraft:chest_minecart,distance=..2] CustomName set value $(newName)

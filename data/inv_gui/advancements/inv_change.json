@@ -1,8 +1,0 @@
-{
-    "criteria": {
-        "inv_changed": {
-            "trigger": "inventory_changed",
-            "conditions": {}
-        }
-    }
-}
